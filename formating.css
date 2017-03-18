@@ -3,3 +3,8 @@
   text-align:center;
 } 
 .smaller_text { font-size:150%; }
+.bubble {
+  border-style:dotted;
+    border-width: 5px;
+  border-color:pink;
+  
