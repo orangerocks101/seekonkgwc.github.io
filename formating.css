@@ -1,2 +1,5 @@
-.bigger_text { font-size:300%; }
+.bigger_text {
+  font-size:300%;
+  text-align:center;
+} 
 .smaller_text { font-size:150%; }
