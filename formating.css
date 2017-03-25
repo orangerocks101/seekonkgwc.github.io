@@ -7,5 +7,6 @@
   border-style:dotted;
     border-width: 5px;
   border-color:pink;
-  width:150px; 
+  width:150px;
+  font-size: 200%; 
 }
