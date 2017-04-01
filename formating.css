@@ -38,5 +38,7 @@ body {
 background-color: pink;
 }
 a {
-  color:hotpink; 
+  color:red; 
 }
+a:hover {
+  color: hotpink; }
