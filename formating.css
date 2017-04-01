@@ -23,10 +23,10 @@
 .topics_left {
   display: inline-block;
   vertical-align: top;
-  padding-left: 50px;
+  padding-left: 75px;
 }
 .topics_right {
   display: inline-block;
    vertical-align: top;
-  padding-left: 25px;
+  padding-left: 50px;
 }
