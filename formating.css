@@ -22,9 +22,9 @@
 }
 .topic_left {
   display: inline-block;
-  vertical-align;
+  vertical-align: top;
 }
 .topic_right {
   display: inline-block;
-   vertical-align;
+   vertical-align: top;
 }
