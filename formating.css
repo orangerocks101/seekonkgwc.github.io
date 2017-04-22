@@ -40,5 +40,7 @@ background-color: pink;
 a {
   color:red; 
 }
+
+}
 a:hover {
   color: hotpink; }
